@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Company Profile - PT. Contoh Perusahaan</title>
+    <title>Company Profile - PT. Oyiisamm</title>
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -239,7 +239,7 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="https://placehold.co/200x60/2c3e50/ffffff/png?text=Company+Logo" alt="Company Logo" height="40" class="d-inline-block align-text-top me-2">
+                <img src="https://placehold.co/200x60/2c3e50/ffffff/png?text=Oyiisamm" alt="Oyiisamm" height="40" class="d-inline-block align-text-top me-2">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
@@ -511,8 +511,8 @@
                                     <i class="fas fa-map-marker-alt"></i>
                                 </div>
                                 <div>
-                                    <p class="mb-0">Jl. Contoh Alamat No. 123</p>
-                                    <p class="mb-0">Jakarta Selatan, 12540</p>
+                                    <p class="mb-0">Jl. Ngaceng Crew No. 123</p>
+                                    <p class="mb-0">Malang , 12540</p>
                                 </div>
                             </div>
                             <div class="d-flex align-items-center mb-3">
@@ -528,7 +528,7 @@
                                     <i class="fas fa-envelope"></i>
                                 </div>
                                 <div>
-                                    <p class="mb-0">info@perusahaancontoh.com</p>
+                                    <p class="mb-0">info@perusahaanoyiisamm.com</p>
                                 </div>
                             </div>
                             <div class="mt-4">
@@ -553,7 +553,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 mb-4">
-                    <h5 class="text-white mb-4">PT. Contoh Perusahaan</h5>
+                    <h5 class="text-white mb-4">PT. Oyiisamm</h5>
                     <p>Menyediakan solusi bisnis inovatif sejak 2013. Kami membantu bisnis tumbuh melalui teknologi, strategi, dan kreativitas.</p>
                 </div>
                 <div class="col-lg-2 mb-4">
@@ -588,7 +588,7 @@
             <hr class="my-4 bg-light">
             <div class="row">
                 <div class="col-md-6">
-                    <p class="mb-0">&copy; 2023 PT. Contoh Perusahaan. All rights reserved.</p>
+                    <p class="mb-0">&copy; 2023 PT. Oyiisamm. All rights reserved.</p>
                 </div>
                 <div class="col-md-6 text-md-end">
                     <a href="#" class="text-white text-decoration-none me-3">Kebijakan Privasi</a>
